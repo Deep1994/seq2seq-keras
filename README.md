@@ -8,5 +8,5 @@ data | BLEU2 |  BLEU3  |  BLEU4
 QQP | 39.34 | 29.39 | 22.42
 
 data split:
-train: 103264
-test: 3665
++ train: 103264
++ test: 3665
