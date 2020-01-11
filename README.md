@@ -34,3 +34,7 @@ QQP | 39.34 | 29.39 | 22.42
 + generated: how can i learn microsoft office ?
 
 =========================================================
+
+# Reference
+
+[玩转Keras之seq2seq自动生成标题](https://kexue.fm/archives/5861)
