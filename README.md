@@ -37,4 +37,4 @@ QQP | 39.34 | 29.39 | 22.42
 
 # Reference
 
-[玩转Keras之seq2seq自动生成标题](https://kexue.fm/archives/5861)
+[玩转Keras之seq2seq自动生成标题](https://kexue.fm/archives/5861) by 苏剑林
