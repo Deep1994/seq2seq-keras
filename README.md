@@ -6,3 +6,7 @@ seq2seq model implemented with keras, tested on Quora Question Pairs dataset.
 data | BLEU2 |  BLEU3  |  BLEU4
 -|-|-|-
 QQP | 39.34 | 29.39 | 22.42
+
+data split:
+train: 103264
+test: 3665
