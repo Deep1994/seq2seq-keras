@@ -223,10 +223,4 @@ def gen_sent(s, model, word2id, id2word, topk=3, maxlen=25):
         if yid[best_one][-1] == 3:
             return id2str(yid[best_one], id2word)
     # 如果maxlen字都找不到<end>，直接返回
-    return id2str(yid[np.argmax(scores)])        
-            
-            
-            
-            
-        
-    
+    return id2str(yid[np.argmax(scores)])
