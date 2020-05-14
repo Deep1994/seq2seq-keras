@@ -88,16 +88,3 @@ def seq2seq(words,
     model.compile(optimizer=Adam(1e-3))
     
     return model
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
